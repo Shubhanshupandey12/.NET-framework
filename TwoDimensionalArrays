@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Remoting.Services;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Assignment1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Matrix m1 = new Matrix();
+            m1.fill();
+            m1.show();
+            Console.ReadLine();
+        }
+       
+    }
+    internal class Matrix
+    {
+         int[,] arr = new int[3, 4];
+         
+        public void fill()
+        {
+            Console.WriteLine("Enter 12 elements");
+            for(int i=0;i<arr.GetLength(0);i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    arr[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+        }
+
+        public void show()
+        {
+
+            Console.WriteLine("Array is :");
+
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    Console.Write(arr[i, j]+" ");
+                }
+                Console.WriteLine();
+            }
+
+        }
+          
+
+
+        
+    }
+}
