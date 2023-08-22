@@ -1,0 +1,17 @@
+C:\Users\pande\source\repos\AirLine ManagementSystem\bin\Debug\AirLine ManagementSystem.exe.config
+C:\Users\pande\source\repos\AirLine ManagementSystem\bin\Debug\AirLine ManagementSystem.exe
+C:\Users\pande\source\repos\AirLine ManagementSystem\bin\Debug\AirLine ManagementSystem.pdb
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.Login.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.Splash.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.Properties.Resources.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine ManagementSystem.csproj.GenerateResource.cache
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine ManagementSystem.exe
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine ManagementSystem.pdb
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.AddPassenger.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.CancellationTbl.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.FlightTbl.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.Ticket.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.Viewflight.resources
+C:\Users\pande\source\repos\AirLine ManagementSystem\obj\Debug\AirLine_ManagementSystem.ViewPassangers.resources
